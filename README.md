@@ -14,8 +14,12 @@
 
 ```js
 const ciroribba = {
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Material UI, Styled-Components]
+  Lenguajes de Programacion: [Javascript],
+  Desarrollo Frontend: [React, HTML, CSS, Bootstrap, Redux],
+  Desarrollo Backend: [Node],
+  Base de datos: [MySQL, PostgresSQL],
+  Software: [Ai, Ps, Invision, Postman]
+  Otros: [Git]
 }
 ```
 

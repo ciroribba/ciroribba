@@ -2,15 +2,15 @@
 
 ![bannerGit2](https://user-images.githubusercontent.com/81247830/127744185-82c9054b-8c6b-403e-8c89-8cffcdee5ceb.png)
 
-## como llegue aqui
-🔸Una pregunta,  como es que un sitio web muestra una imagen en la pantalla?... Y en ese camino de buscar respuestas llegue a tener otras dudas que me convirtieron en Desarrollador.
+## Como llegue aqui
+🔸Me hice una pregunta: ¿como es que un sitio web muestra una imagen en la pantalla?... Y en ese camino de buscar respuestas llegue a tener otras dudas que me convirtieron en Desarrollador.
 
 🔸Encontré en la programación #front-end eso que no es trabajo porque hago lo que me gusta.
 
 🔸Actualmente estoy desarrollando un proyecto final en la que estamos desarrollando junto a compañeros de manera colaborativa un foro Web para una institucion universitaria con tecnologias como React. Sabrás mas de esto al terminar el mismo 😉
 
 
-## sobre mi codigo
+## Sobre mi codigo
 
 ```js
 const ciroribba = {

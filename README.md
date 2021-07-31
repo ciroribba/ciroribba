@@ -1,6 +1,6 @@
-### Hola!!! 👋
+### Bienvenido!!! 👋
 
-![bannerGit2](https://user-images.githubusercontent.com/81247830/127744185-82c9054b-8c6b-403e-8c89-8cffcdee5ceb.png)
+![bannerGit2](https://user-images.githubusercontent.com/81247830/127746993-352097ff-da6c-4953-8abe-f43b95d42968.png)
 
 ## Como llegue aqui
 🔸Me hice una pregunta: ¿como es que un sitio web muestra una imagen en la pantalla?... Y en ese camino de buscar respuestas llegue a tener otras dudas que me convirtieron en Desarrollador.

@@ -3,11 +3,20 @@
 ![bannerGit2](https://user-images.githubusercontent.com/81247830/127746993-352097ff-da6c-4953-8abe-f43b95d42968.png)
 
 ## Como llegue aqui
-🔸Me hice una pregunta: ¿como es que un sitio web muestra una imagen en la pantalla?... Y en ese camino de buscar respuestas llegue a tener otras dudas que me convirtieron en Desarrollador.
+🔸 Desarrollador Front-End Apasionado y Experto en React
+Soy un desarrollador front-end con una sólida experiencia en la creación de aplicaciones web de alto rendimiento utilizando React. Mi viaje en el desarrollo web comenzó con una simple curiosidad sobre cómo se muestran las imágenes en los sitios web, lo que me llevó a explorar y dominar diversas tecnologías.
 
-🔸Encontré en la programación #front-end eso que no es trabajo porque hago lo que me gusta.
+🔸 Experiencia Profesional
+En mi rol actual como Sr. Front-End Developer en Kala, colaboro estrechamente con equipos de UX para garantizar una experiencia de usuario excepcional. Anteriormente, en Mendel, trabajé en la implementación de clientes basados en especificaciones Swagger y en la integración del framework NG-Zorro con Angular.
 
-🔸Actualmente estoy desarrollando un proyecto final en la que estamos desarrollando junto a compañeros de manera colaborativa un foro Web para una institucion universitaria con tecnologias como React. Sabrás mas de esto al terminar el mismo 😉
+🔸 Formación y Competencias
+Aunque inicialmente estudié Licenciatura en Biología Molecular, descubrí mi verdadera pasión en el desarrollo web. Me formé en HENRY Bootcamp, donde aprendí herramientas clave como JavaScript, CSS, Node.js y React. También he obtenido diversas certificaciones en desarrollo web, diseño UI/UX y QA.
+
+🔹 Tecnologías y Herramientas
+Tengo experiencia en HTML, CSS, Bootstrap, Material UI, Angular, Git, Redux, y más. Mi enfoque es siempre en mejorar la usabilidad y crear experiencias de usuario sobresalientes.
+
+🔹 Contáctame
+Puedes escribirme a ciro.ribba@gmail.com para conocer más sobre mi trabajo o ver mis proyectos destacados y mi portafolio en mi perfil de LinkedIn.
 
 
 ## Sobre mi codigo
@@ -15,7 +24,7 @@
 ```js
 const ciroribba = {
   Lenguajes de Programacion: [Javascript],
-  Desarrollo Frontend: [React, HTML, CSS, Bootstrap, Redux],
+  Desarrollo Frontend: [React, HTML, CSS, Bootstrap, Redux, ant-ds],
   Desarrollo Backend: [Node],
   Base de datos: [MySQL, PostgresSQL],
   Software: [Ai, Ps, Invision, Postman]

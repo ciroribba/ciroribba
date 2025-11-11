@@ -2,21 +2,15 @@
 
 ![bannerGit2](https://user-images.githubusercontent.com/81247830/127746993-352097ff-da6c-4953-8abe-f43b95d42968.png)
 
-## Como llegue aqui
-🔸 Desarrollador Front-End Apasionado y Experto en React
-Soy un desarrollador front-end con una sólida experiencia en la creación de aplicaciones web de alto rendimiento utilizando React. Mi viaje en el desarrollo web comenzó con una simple curiosidad sobre cómo se muestran las imágenes en los sitios web, lo que me llevó a explorar y dominar diversas tecnologías.
+## 🧭 Mi recorrido en desarrollo
 
-🔸 Experiencia Profesional
-En mi rol actual como Sr. Front-End Developer en Kala, colaboro estrechamente con equipos de UX para garantizar una experiencia de usuario excepcional. Anteriormente, en Mendel, trabajé en la implementación de clientes basados en especificaciones Swagger y en la integración del framework NG-Zorro con Angular.
+Soy **Ciro Z. Ribba**, desarrollador **Front-End Senior** especializado en **React**, **Next.js** y **TypeScript**, con experiencia construyendo productos escalables y centrados en la experiencia del usuario.  
 
-🔸 Formación y Competencias
-Aunque inicialmente estudié Licenciatura en Biología Molecular, descubrí mi verdadera pasión en el desarrollo web. Me formé en HENRY Bootcamp, donde aprendí herramientas clave como JavaScript, CSS, Node.js y React. También he obtenido diversas certificaciones en desarrollo web, diseño UI/UX y QA.
+Comencé por curiosidad, queriendo entender cómo se diseñaban las interfaces, y con el tiempo convertí esa curiosidad en una carrera enfocada en **crear aplicaciones web de alto rendimiento**.  
 
-🔹 Tecnologías y Herramientas
-Tengo experiencia en HTML, CSS, Bootstrap, Material UI, Angular, Git, Redux, y más. Mi enfoque es siempre en mejorar la usabilidad y crear experiencias de usuario sobresalientes.
+He trabajado en proyectos de **fintech y plataformas de servicios**, colaborando con equipos de **UX/UI y backend** para lograr soluciones sólidas, usables y bien diseñadas.  
 
-🔹 Contáctame
-Puedes escribirme a ciro.ribba@gmail.com para conocer más sobre mi trabajo o ver mis proyectos destacados y mi portafolio en mi perfil de LinkedIn.
+Mi foco está en la **arquitectura de interfaces**, la **optimización del rendimiento** y la **integración fluida entre diseño y desarrollo**.
 
 
 ## Sobre mi codigo
